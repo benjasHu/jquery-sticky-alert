@@ -1,4 +1,6 @@
 #jquery-sticky-alert
+
+[![Join the chat at https://gitter.im/benjasHu/jquery-sticky-alert](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/benjasHu/jquery-sticky-alert?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A minimal jQuery plugin to add a sticky alert bar to the top of your website. Inspired by [this pen on CodePen](http://codepen.io/thommybrowne/details/katou). A demo can be found running at [http://sticky.longren.io](http://sticky.longren.io), which is hosted on [GitHub Pages](https://pages.github.com/).
 
 ---
